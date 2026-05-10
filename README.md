@@ -1,4 +1,4 @@
-<img src="icons/github_banner.webp" alt="banner">
+<img src="github_banner.webp" alt="banner">
 <h3 style="font-weight: bold;">ABOUT ME</h3>
 <hr>
 My name is Aïmène, I'm a BTS SIO SLAM student (Software option), I'm passionate about designing apps, aswell as administrating systems and providing technical support.
